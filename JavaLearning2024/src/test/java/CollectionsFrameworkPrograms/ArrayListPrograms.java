@@ -10,7 +10,7 @@ public class ArrayListPrograms {
 		
 		ArrayList al1 = new ArrayList();
 		
-		al1.add(10);
+		al1.add(10); //test
 		al1.add('a');
 		al1.add("hello");
 		al1.add(10);
